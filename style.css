@@ -1,0 +1,22 @@
+body{
+    background-color: #E9ECEF;
+}
+h2{
+    text-align: center;
+    margin: auto;
+    color: purple;
+}
+.row{
+    margin: auto;
+    text-align: center;
+}
+
+.urun{
+    background-color: aliceblue;
+    width: 370px;
+    margin: auto;
+}
+.container{
+    list-style-position: inside;
+}
+
